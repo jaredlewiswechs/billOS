@@ -1,0 +1,5 @@
+{
+  "name": "BILL Spatial OS",
+  "description": "A visionOS-inspired, object-oriented desktop environment running the BILL Protocol. Features spatial window management, glassmorphism aesthetics, and structural clarity.",
+  "requestFramePermissions": []
+}
